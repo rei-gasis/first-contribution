@@ -12,4 +12,5 @@
 - [Hafsah Reid)](https://github.com/hreid24)
 - [Keith Guerra)](https://github.com/kg111)
 - [Winson Gasis)](https://github.com/rei-gasis)
+- [Some dev)](https://github.com/dv)
 - [Another dev)](https://github.com/dev2)
